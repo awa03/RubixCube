@@ -35,7 +35,8 @@ make
 ./rubix
 ```
 
-[!NOTE] Hi
+[!NOTE]
+Hi
 ****
 
 
