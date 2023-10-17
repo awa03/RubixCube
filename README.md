@@ -35,8 +35,8 @@ make
 ./rubix
 ```
 
-[!NOTE]
-Hi
+> [!NOTE]
+> Star This Repo ☺️
 ****
 
 
