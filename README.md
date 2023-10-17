@@ -19,7 +19,26 @@ filled with enum colors. The transformation functions are:
 - Twist Left Top twists the 1st column 90 degrees towards the top of the cube (upwards).
 - Twist Right Top twists the 3st column 90 degrees towards the top of the cube (upwards).
 
+## How To Run The Program
+Simply navigate to your desired directory and run the following commands
+```bash
+# Clone the repository 
+git clone https://github.com/awa03/RubixCube
+
+# Enter the repository
+cd RubixCube
+
+# If Needed
+make
+
+# Run Executable
+./rubix
+```
+
+
 ****
+
+
 
 ## Temporary Code
 Within the code currently the cube preforms the above operations randomly to a set amount of moves in order to test if the cube is solved.
