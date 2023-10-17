@@ -1,4 +1,5 @@
-# RubixCube
+# RubixCube ![rubiks_cube](https://github.com/awa03/RubixCube/assets/118379307/1a269697-f19a-423a-8a20-09a002786e53)
+
 Working Rubix Cube In C++
 
 ## How This Was Accomplished
@@ -34,6 +35,13 @@ make
 # Run Executable
 ./rubix
 ```
+
+## Future Updates
+- Twist Front 
+- Rotate Cube
+- Solve Cube
+- Better Cube Display
+
 
 > [!NOTE]
 > Star This Repo ☺️
